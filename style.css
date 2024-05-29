@@ -31,6 +31,7 @@ p {
   border-radius: 15px;
   max-width: 1200px;
   margin: 10px auto;
+  padding: 10px;
 }
 
 .card-container {
